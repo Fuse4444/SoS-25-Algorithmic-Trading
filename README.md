@@ -10,22 +10,22 @@ This repository documents my journey through quantitative finance and algorithmi
 
 ## Project Structure
 
-### 1. Prerequisites (`/prerequisites`)
+### 1. Prerequisites 
 Core concepts in:
 - Mathematics & statistics (probability, regression, hypothesis testing)
 - Python (NumPy, pandas, matplotlib, scikit-learn)
 - Finance basics (market instruments, order types, EMH, portfolio theory)
 
-### 2. Data & EDA (`/data_handling`)
+### 2. Data & EDA 
 - OHLCV data loading and preprocessing (OpenBB, Quandl)
 - Resampling, normalization, and handling missing data
 - Visualizing trends and patterns
 
-### 3. Technical Indicators (`/indicators`)
+### 3. Technical Indicators 
 - Moving Averages, RSI, MACD, Bollinger Bands, Ichimoku, etc.
 - Code and visualizations for each indicator
 
-### 4. Strategy Development (`/strategies`)
+### 4. Strategy Development 
 - Rule-based strategies:
   - Simple Moving Average Crossover (SMAC)
   - Bollinger Band Mean Reversion
@@ -33,6 +33,6 @@ Core concepts in:
   - Pairs trading
 - Buy/sell signal plotting
 
-### 5. Backtesting & Evaluation (`/backtesting`)
+### 5. Backtesting & Evaluation 
 - Backtesting framework
 - Performance metrics: returns, Sharpe ratio, drawdowns
