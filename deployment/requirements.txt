@@ -1,0 +1,6 @@
+alpaca-py
+aiohttp
+python-dotenv
+sqlalchemy
+pandas
+numpy
