@@ -1,6 +1,6 @@
 # SoS-25-Algorithmic-Trading
 
-This repository documents my journey through quantitative finance and algorithmic trading as part of the Summer of Science (SoS'25) program. Most of the focus is on developing a solid foundation in financial data analysis, implementing rule-based trading strategies, and backtesting them using Python.
+This repository contains my documents of journey through quantitative finance and algorithmic trading as part of the Summer of Science (SoS'25) program. Most of the focus is on developing a solid foundation in financial data analysis, implementing rule-based trading strategies, and backtesting them using Python.
 
 ## Overview
 
@@ -36,3 +36,18 @@ Core concepts in:
 ### 5. Backtesting & Evaluation 
 - Backtesting framework
 - Performance metrics: returns, Sharpe ratio, drawdowns
+
+### 6. Machine Learning
+- Feature Engineering
+- Classification and regression using for example XGBoost
+- Cross-validation with time series
+- Overfitting and data leakage handling
+
+### 7. Deployment 
+- Broker APIs
+- Real-Time Systems
+- Execution Algorithms
+- Cloud deployment (AWS Lambda, EC2)
+- Logging, monitoring, database storage (PostgreSQL, SQLite, InfluxDB)
+
+
